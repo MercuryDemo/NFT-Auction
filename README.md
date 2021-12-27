@@ -27,3 +27,7 @@
 ## 运行成功网页截图
 ![image](https://github.com/MercuryDemo/blockchain_Auciton/blob/main/%E6%BC%94%E7%A4%BA%E6%88%AA%E5%9B%BE.png)
 ![image](https://github.com/MercuryDemo/blockchain_Auciton/blob/main/%E6%BC%94%E7%A4%BA%E6%88%AA%E5%9B%BE2.png)
+
+**相似的仓库链接：**
+https://github.com/pp-thelightlord/Dapp-NFTAuction
+https://github.com/OE-Heart/Cryptoplat
